@@ -438,9 +438,7 @@ nigredo/
 ```
 
 Internal/development documentation lives in [`docs/dev/`](docs/dev/) — data-flow internals,
-the file manifest, per-feature notes, and historical change batches. Some of those notes predate
-recent reworks (e.g. they still describe the removed "fair-game pool"); this README reflects the
-current code.
+the file manifest, feature notes, and future plans.
 
 ---
 
