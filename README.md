@@ -447,6 +447,7 @@ the file manifest, feature notes, and future plans.
 Alchemy's *nigredo* is the **blackening** — the first stage of the magnum opus, where matter is
 broken down to its base before anything can be rebuilt from it. That's the tool's job: decompose a
 target's external surface into its raw components so an operator can make sense of it. The package
-is `prima_materia`, the "base matter" the work begins from. A few internal tools wear that flavor
-as display names — **WebGet**, **SnovFall**, **LinkThief**, **PartyOn**, **FunnelWeb** — mapped to
-their functions in the code.
+is `prima_materia`, the "base matter" the work begins from. A few internal tools do not reflect this as display names — **WebGet**, **SnovFall**, **LinkThief**, **PartyOn**, **FunnelWeb**. These tools predate the creation of Nigredo, which represents the collection of work into one methodology for mapping the base components to molecular detail. The tools that do not reflect the name are also available solo on the rest of the github.
+
+            ####WARNING####
+THIS IS A WORKING PROTOTYPE AND DOES NOT REPRESENT THR FINAL PRODUCT. IT IS A CURREN WORK IN PROGRESS (WIP) AND REQUIRES FURTHER TESTING AND DEVELOPMENT. CONSIDERABLE TIME HAS BEEN SPENT MAKING NIGREDO, BUT MUCH, MUCH MORE IS REQUIRED. PLEASE USE WITH CAUTION AND RUN DEFAULT OPTIONS WITH BASE SETTINGS FIRST BEFORE YOU BECOME FAMILIAR WITH THE MORE ADVANCED OPTIONS TO DISTINGUISH WHEN THE TOOL HAD A GLITCH VERSUS MISINTERPRETING THE RESULTS. MISSING DATA IN THE FINAL_REPORT.XLSX DOES NOT CONSTITUTE A SKIPPED TOOL. PLEASE CHECK THE MANUAL-RECHECK TAB IN THE FINAL_REPORT.XLSX. ALSO, REALIZE CURRENT RECON_CONFIG.JSON WILL STORE THE API KEYS BETWEEN RUNS. THIS WILL CHANGE IN THE FUTURE, SO YOU CAN DESTROY THE FILE AFTER RUN AND SAVE THE RESULTS WITHIN THE RESULTS FOLDER THAT CONTAINS ALL OUTPUT, ERROR LOGS, TIMESTAMPS, ET AL.
